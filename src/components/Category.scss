@@ -1,7 +1,8 @@
-.category{
+.category {
     display: flex;
     justify-content: center;
     margin: 2rem 0rem;
+    border-radius: 5rem;
 
     a {
         display: flex;
@@ -16,7 +17,7 @@
         height: 6rem;
         cursor: pointer;
         transform: scale(0.8);
-        
+
         h4 {
             color: white;
             font-size: 0.8rem;
